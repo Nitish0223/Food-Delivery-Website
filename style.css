@@ -1,0 +1,253 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+
+:root {
+--primary: #f18000;
+--primary-hover: #64b55c;
+
+  --text-dark: #1f2937;
+  --text-light: #6b7280;
+  --bg-light: #f6f8fa;
+  --card-bg: #ffffff;
+  --radius-lg: 16px;
+  --radius-md: 12px;
+  --shadow-sm: 0 2px 10px rgba(0, 0, 0, 0.06);
+  --shadow-lg: 0 10px 25px rgba(0, 0, 0, 0.10);
+}
+
+
+body {
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+  background-color: var(--bg-light);
+  color: var(--text-dark);
+}
+
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 2px 60px;
+  background-color: #ffffff;
+  box-shadow: var(--shadow-sm);
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  transition: all 0.3s ease;
+}
+
+.logo {
+  width: 170px;
+}
+
+
+.nav-items > ul {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: 28px;
+  padding-right: 20px;
+  margin: 0;
+}
+
+.nav-items > ul > li {
+  font-size: 22px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: color 0.2s ease;
+}
+
+.nav-items > ul > li:hover {
+  color: var(--primary);
+}
+
+
+.filter {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  padding: 20px 60px;
+}
+
+
+.filter-btn {
+  background-color: var(--primary);
+  color: #ffffff;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 5px;
+  font-weight: 500;
+  font-size: 14px;
+  cursor: pointer;
+  transition: all 0.25s ease;
+  box-shadow: 0 4px 12px rgba(230, 126, 34, 0.25);
+}
+.search-box{
+  padding: 7px 10px; 
+  font-size: 16px;
+}
+
+.filter-btn:hover,
+.search-button:hover,
+.login button:hover {
+  background-color: var(--primary-hover);
+  box-shadow: 0 6px 18px rgba(230, 126, 34, 0.35);
+  transform: translateY(-2px);
+}
+
+.res-containter {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px;
+  padding: 40px 60px;
+}
+
+.res-card {
+  position: relative;
+  background: var(--card-bg);
+  border-radius: var(--radius-lg);
+  margin-right: 5px;
+  padding: 16px;
+  width: 290px;
+  cursor: pointer;
+  transition: all 0.25s ease;
+  box-shadow: var(--shadow-sm);
+  animation: fadeIn 0.4s ease-in;
+}
+
+.res-card:hover {
+  transform: translateY(-6px);
+  box-shadow: var(--shadow-lg);
+}
+
+.res-image {
+  border-radius: var(--radius-md);
+  height: 180px;
+  width: 100%;
+  object-fit: cover;
+}
+
+.res-card h3 {
+  color: var(--text-dark);
+  font-size: 21px;
+  font-weight: 600;
+  margin: 12px 0 6px;
+}
+.res-card h4,a{
+  text-decoration: none;
+  font-size: 15px;
+  color: var(--text-light);
+  margin: 4px 0;
+}
+#label{
+  position: absolute;
+  background-color: black;
+  color: white;
+  margin: 2px;
+  padding: 7px;
+  border-radius: 5px;
+  z-index: 10;
+}
+
+.shimmer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 24px;
+  padding: 40px 60px;
+}
+
+.shimmmer-body {
+  height: 300px;
+  width: 260px;
+  border-radius: var(--radius-lg);
+  background: linear-gradient(
+    90deg,
+    #f0f0f0 25%,
+    #e6e6e6 50%,
+    #f0f0f0 75%
+  );
+  background-size: 200% 100%;
+  animation: shimmer 1.5s infinite linear;
+}
+
+.login {
+  padding: 0 20px;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes shimmer {
+  0% {
+    background-position: -200% 0;
+  }
+  100% {
+    background-position: 200% 0;
+  }
+}
+.nav-items a {
+  text-decoration: none;
+  color: var(--text-dark);
+  font-size: 22px;
+  font-weight: 500;
+  transition: color 0.2s ease;
+}
+.nav-items{
+  text-decoration: none;
+  color: var(--text-dark);
+  font-size: 22px;
+  font-weight: 500;
+  transition: color 0.2s ease;
+}
+
+.nav-items a:hover {
+  color: var(--primary);
+}
+.resNameMenuPage{
+  text-align: center;
+}
+.accordian {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  max-width: 900px;
+  margin: 20px auto;
+  padding: 18px 24px;
+
+  background-color: #ffffff;
+  border-radius: 10px;
+
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.accordian:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.08);
+}
+
+.accordian-header {
+  cursor: pointer;
+  font-size: 20px;
+  font-weight: 600;
+  color: #1f2937;
+}
+
+.symbol {
+  font-size: 20px;
+  color: #6b7280;
+  transition: transform 0.2s ease;
+}

@@ -1,0 +1,2004 @@
+{
+  "restaurants": [
+    {
+      "id": 1,
+      "restaurantCode": "res_001",
+      "name": "Spice Route",
+      "cuisines": ["Indian", "North Indian", "Mughlai"],
+      "costForTwo": 600,
+      "rating": 4.4,
+      "totalRatings": 1240,
+      "deliveryTime": 30,
+      "promoted": true,
+      "isVeg": false,
+      "location": "Bangalore",
+      "imageUrl": "https://t3.ftcdn.net/jpg/02/57/21/40/360_F_257214005_63auIfr9KN0gTHt28w6G8hoP2k45ScyP.jpg"
+    },
+    {
+      
+      "id": 2,
+      "restaurantCode": "res_002",
+      "name": "Green Leaf Cafe",
+      "cuisines": ["Healthy", "Salads", "Continental"],
+      "costForTwo": 500,
+      "rating": 3.5,
+      "promoted": false,
+      "totalRatings": 860,
+      "deliveryTime": 25,
+      "isVeg": true,
+      "location": "Pune",
+      "imageUrl": "https://img.freepik.com/free-photo/cup-hot-cappuccino-chocolate-croissant-with-breakfast_140725-9515.jpg?semt=ais_hybrid&w=740&q=80"
+    }
+ ,
+    
+    {
+      "id": 3,
+      "restaurantCode": "res_003",
+      "name": "Pizza Hub",
+      "cuisines": ["Italian", "Pizza", "Fast Food"],
+      "costForTwo": 700,
+      "rating": 4.3,
+      "promoted":true,
+      "totalRatings": 2100,
+      "deliveryTime": 35,
+      "isVeg": false,
+      "location": "Mumbai",
+      "imageUrl": "https://img.freepik.com/free-photo/pizza-pizza-filled-with-tomatoes-salami-olives_140725-1200.jpg"
+    },
+    {
+      "id": 4,
+      "restaurantCode": "res_004",
+      "name": "Burger Junction",
+      "cuisines": ["Burgers", "American", "Fast Food"],
+      "costForTwo": 450,
+      "rating": 3.9,
+      "promoted": false,
+      "totalRatings": 540,
+      "deliveryTime": 20,
+      "isVeg": false,
+      "location": "Delhi",
+      "imageUrl": "https://thumbs.dreamstime.com/b/tasty-burger-french-fries-fire-close-up-home-made-flames-137249900.jpg"
+    },
+    {
+      "id": 5,
+      "restaurantCode": "res_005",
+      "name": "South Spice",
+      "cuisines": ["South Indian", "Tamil", "Andhra"],
+      "costForTwo": 400,
+      "rating": 4.6,
+      "promoted":true,
+      "totalRatings": 1850,
+      "deliveryTime": 28,
+      "isVeg": true,
+      "location": "Chennai",
+      "imageUrl": "https://sukhis.com/app/uploads/2022/04/image3-4.jpg"
+    },
+    {
+      "id": 6,
+      "restaurantCode": "res_006",
+      "name": "Wok & Roll",
+      "cuisines": ["Chinese", "Asian", "Thai"],
+      "costForTwo": 650,
+      "rating": 4.2,
+      "promoted": false,
+      "totalRatings": 970,
+      "deliveryTime": 32,
+      "isVeg": false,
+      "location": "Hyderabad",
+      "imageUrl": "https://content.jdmagicbox.com/comp/def_content/roll-joints/2-roll-joints-2-ukqju.jpg"
+    },
+    {
+      "id": 7,
+      "restaurantCode": "res_007",
+      "name": "Punjabi Tandoor",
+      "cuisines": ["Punjabi", "North Indian", "Tandoor"],
+      "costForTwo": 550,
+      "rating": 3.2,
+      "promoted": false,
+      "totalRatings": 1430,
+      "deliveryTime": 34,
+      "isVeg": false,
+      "location": "Chandigarh",
+      "imageUrl": "https://media.istockphoto.com/id/530760390/photo/dal-makhani-or-daal-makhani-indian-lunch-dinner-menu.jpg?s=612x612&w=0&k=20&c=4o-Am2ixN-hw92G3cAPd9C_uMJOWdfnlHFJx7r_s0Ys="
+    },
+    {
+      "id": 8,
+      "restaurantCode": "res_008",
+      "name": "The Dessert Studio",
+      "cuisines": ["Desserts", "Bakery", "Ice Cream"],
+      "costForTwo": 350,
+      "rating": 4.7,
+      "promoted":true,
+      "totalRatings": 2200,
+      "deliveryTime": 18,
+      "isVeg": true,
+      "location": "Kolkata",
+      "imageUrl": "https://www.foodandwine.com/thmb/ckc6L6xKox0WfpfO6dMkuVGPQOY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Angel-Food-Cake-with-Three-Berry-Compote-FT-RECIPE0323-541a780b871441e0ab14383ee38acc44.jpg"
+    },
+    {
+      "id": 9,
+      "restaurantCode": "res_009",
+      "name": "Biryani Blues",
+      "cuisines": ["Biryani", "Hyderabadi", "Indian"],
+      "costForTwo": 650,
+      "rating": 4.4,
+      "promoted": false,
+      "totalRatings": 3100,
+      "deliveryTime": 40,
+      "isVeg": false,
+      "location": "Hyderabad",
+      "imageUrl": "https://bonmasala.com/wp-content/uploads/2022/10/mutton-biriyani-recipe.jpeg"
+    },
+    {
+      "id": 10,
+      "restaurantCode": "res_010",
+      "name": "Cafe Brew",
+      "cuisines": ["Cafe", "Beverages", "Snacks"],
+      "costForTwo": 450,
+      "rating": 2.8,
+      "promoted": false,
+      "totalRatings": 690,
+      "deliveryTime": 22,
+      "isVeg": true,
+      "location": "Bhopal",
+      "imageUrl": "https://media.istockphoto.com/id/2168005130/photo/heart-shaped-latte-art-in-a-white-cup-with-coffee-beans-isolated-on-wooden-table-side-view-of.jpg?s=612x612&w=0&k=20&c=hQmWzRmUpVsrEVD97Dwy7jxk6FmRJhKbA2VNh_D5V9s="
+    },
+    {
+      "id": 11,
+      "restaurantCode": "res_011",
+      "name": "Royal Rasoi",
+      "cuisines": ["Rajasthani", "Indian", "Thali"],
+      "costForTwo": 500,
+      "rating": 3.1,
+      "promoted": false,
+      "totalRatings": 810,
+      "deliveryTime": 29,
+      "isVeg": true,
+      "location": "Jaipur",
+      "imageUrl": "https://img.freepik.com/free-photo/potato-patties-topped-with-beef-patties-shoe-strings_140725-5889.jpg?semt=ais_user_personalization&w=740&q=80"
+    },
+    {
+      "id": 12,
+      "restaurantCode": "res_012",
+      "name": "Sushi Zen",
+      "cuisines": ["Japanese", "Sushi", "Asian"],
+      "costForTwo": 1200,
+      "rating": 4.6,
+      "promoted":true,
+      "totalRatings": 460,
+      "deliveryTime": 45,
+      "isVeg": false,
+      "location": "Bangalore",
+      "imageUrl": "https://int.japanesetaste.com/cdn/shop/articles/how-to-make-makizushi-sushi-rolls-japanese-taste_09423a89-43c3-4c23-bcc9-857db5f85236.webp?v=1763449768&width=5760"
+    },
+    {
+      "id": 13,
+      "restaurantCode": "res_013",
+      "name": "Street Chaat Co.",
+      "cuisines": ["Street Food", "Chaat", "Indian"],
+      "costForTwo": 300,
+      "rating": 4.1,
+      "promoted": false,
+      "totalRatings": 980,
+      "deliveryTime": 20,
+      "isVeg": true,
+      "location": "Indore",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREG4z3VskP56tRZWDAaOuR4-GG99jwQqurRg&s"
+    },
+    {
+      "id": 14,
+      "restaurantCode": "res_014",
+      "name": "MexiCasa",
+      "cuisines": ["Mexican", "Tex-Mex"],
+      "costForTwo": 750,
+      "rating": 4.2,
+      "promoted": true,
+      "totalRatings": 520,
+      "deliveryTime": 38,
+      "isVeg": false,
+      "location": "Gurgaon",
+      "imageUrl": "https://thecharcuterieco.in/cdn/shop/files/TCC-19-Copy_2048x.jpg?v=1684998671"
+    },
+    {
+      "id": 15,
+      "restaurantCode": "res_015",
+      "name": "Ocean Grill",
+      "cuisines": ["Seafood", "Coastal", "Indian"],
+      "costForTwo": 900,
+      "rating": 4.5,
+      "promoted": false,
+      "totalRatings": 670,
+      "deliveryTime": 42,
+      "isVeg": false,
+      "location": "Goa",
+      "imageUrl": "https://media.istockphoto.com/id/1305699663/photo/seafood-platter-grilled-lobster-shrimps-scallops-langoustines-octopus-squid-on-white-plate.jpg?s=612x612&w=0&k=20&c=iEwdxon7CJ0wQEDy8-kwnz7TLdknVw05vaa-Qc_aHow="
+    }
+  ],
+    "menus": [
+      {
+    "restaurantId": "res_001",
+    "ResName": "Spice Route",
+    "menu": { 
+      "Recommended": [
+        {
+          "id": "res_001_m1",
+          "name": "Butter Chicken",
+          "price": 320,
+          "isVeg": false,
+          "imageUrl": "https://source.unsplash.com/600x400/?butter-chicken"
+        },
+        {
+          "id": "res_001_m3",
+          "name": "Chicken Biryani",
+          "price": 300,
+          "isVeg": false,
+          "imageUrl": "https://source.unsplash.com/600x400/?chicken-biryani"
+        },
+        {
+          "id": "res_001_m11",
+          "name": "Paneer Tikka",
+          "price": 260,
+          "isVeg": true,
+          "imageUrl": "https://source.unsplash.com/600x400/?paneer-tikka"
+        }
+      ],
+      "MainCourse": [
+        {
+          "id": "res_001_m2",
+          "name": "Paneer Butter Masala",
+          "price": 280,
+          "isVeg": true,
+          "imageUrl": "https://source.unsplash.com/600x400/?paneer-butter-masala"
+        },
+        {
+          "id": "res_001_m4",
+          "name": "Dal Makhani",
+          "price": 220,
+          "isVeg": true,
+          "imageUrl": "https://source.unsplash.com/600x400/?dal-makhani"
+        },
+        {
+          "id": "res_001_m8",
+          "name": "Chicken Korma",
+          "price": 310,
+          "isVeg": false,
+          "imageUrl": "https://source.unsplash.com/600x400/?chicken-korma"
+        },
+        {
+          "id": "res_001_m12",
+          "name": "Mutton Rogan Josh",
+          "price": 380,
+          "isVeg": false,
+          "imageUrl": "https://source.unsplash.com/600x400/?mutton-rogan-josh"
+        }
+      ],
+      "Starters": [
+        {
+          "id": "res_001_m6",
+          "name": "Tandoori Chicken",
+          "price": 350,
+          "isVeg": false,
+          "imageUrl": "https://source.unsplash.com/600x400/?tandoori-chicken"
+        },
+        {
+          "id": "res_001_m13",
+          "name": "Veg Spring Rolls",
+          "price": 180,
+          "isVeg": true,
+          "imageUrl": "https://source.unsplash.com/600x400/?spring-rolls"
+        },
+        {
+          "id": "res_001_m14",
+          "name": "Chicken Lollipop",
+          "price": 240,
+          "isVeg": false,
+          "imageUrl": "https://source.unsplash.com/600x400/?chicken-lollipop"
+        },
+        {
+          "id": "res_001_m15",
+          "name": "Hara Bhara Kebab",
+          "price": 190,
+          "isVeg": true,
+          "imageUrl": "https://source.unsplash.com/600x400/?hara-bhara-kebab"
+        }
+      ],
+      "Dessert": [
+        {
+          "id": "res_001_m10",
+          "name": "Gulab Jamun",
+          "price": 120,
+          "isVeg": true,
+          "imageUrl": "https://source.unsplash.com/600x400/?gulab-jamun"
+        },
+        {
+          "id": "res_001_m16",
+          "name": "Rasmalai",
+          "price": 140,
+          "isVeg": true,
+          "imageUrl": "https://source.unsplash.com/600x400/?rasmalai"
+        },
+        {
+          "id": "res_001_m17",
+          "name": "Chocolate Brownie",
+          "price": 160,
+          "isVeg": true,
+          "imageUrl": "https://source.unsplash.com/600x400/?chocolate-brownie"
+        }
+      ]
+    }
+  },
+    {
+  "restaurantId": "res_002",
+  "ResName": "Green Leaf Cafe",
+  "menu": {
+    "Recommended": [
+      {
+        "id": "res_002_m1",
+        "name": "Caesar Salad",
+        "price": 220,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?caesar-salad"
+      },
+      {
+        "id": "res_002_m4",
+        "name": "Pasta Alfredo",
+        "price": 260,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?alfredo-pasta"
+      },
+      {
+        "id": "res_002_m7",
+        "name": "Quinoa Bowl",
+        "price": 280,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?quinoa-bowl"
+      }
+    ],
+    "MainCourse": [
+      {
+        "id": "res_002_m11",
+        "name": "Veg Lasagna",
+        "price": 290,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?veg-lasagna"
+      },
+      {
+        "id": "res_002_m12",
+        "name": "Grilled Paneer Steak",
+        "price": 310,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?paneer-steak"
+      },
+      {
+        "id": "res_002_m13",
+        "name": "Mexican Rice Bowl",
+        "price": 250,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?mexican-rice-bowl"
+      },
+      {
+        "id": "res_002_m14",
+        "name": "Spinach Corn Pasta",
+        "price": 270,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?spinach-corn-pasta"
+      }
+    ],
+    "Starters": [
+      {
+        "id": "res_002_m2",
+        "name": "Greek Salad",
+        "price": 240,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?greek-salad"
+      },
+      {
+        "id": "res_002_m3",
+        "name": "Grilled Veg Sandwich",
+        "price": 180,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?grilled-veg-sandwich"
+      },
+      {
+        "id": "res_002_m5",
+        "name": "Veg Wrap",
+        "price": 170,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?veg-wrap"
+      },
+      {
+        "id": "res_002_m10",
+        "name": "Garlic Bread",
+        "price": 110,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?garlic-bread"
+      }
+    ],
+    "Dessert": [
+      {
+        "id": "res_002_m6",
+        "name": "Fruit Bowl",
+        "price": 150,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?fruit-bowl"
+      },
+      {
+        "id": "res_002_m8",
+        "name": "Mango Smoothie",
+        "price": 160,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?mango-smoothie"
+      },
+      {
+        "id": "res_002_m9",
+        "name": "Herbal Tea",
+        "price": 90,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?herbal-tea"
+      },
+      {
+        "id": "res_002_m15",
+        "name": "Chocolate Energy Bar",
+        "price": 130,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?chocolate-energy-bar"
+      }
+    ]
+  }
+},
+{
+  "restaurantId": "res_003",
+  "ResName": "Pizza Hub",
+    "menu": {
+    "Recommended": [
+      {
+        "id": "res_003_m1",
+        "name": "Margherita Pizza",
+        "price": 250,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?margherita-pizza"
+      },
+      {
+        "id": "res_003_m2",
+        "name": "Pepperoni Pizza",
+        "price": 320,
+        "isVeg": false,
+        "imageUrl": "https://source.unsplash.com/600x400/?pepperoni-pizza"
+      },
+      {
+        "id": "res_003_m5",
+        "name": "Cheese Burst Pizza",
+        "price": 340,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?cheese-pizza"
+      }
+    ],
+    "MainCourse": [
+      {
+        "id": "res_003_m3",
+        "name": "Farmhouse Pizza",
+        "price": 300,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?farmhouse-pizza"
+      },
+      {
+        "id": "res_003_m4",
+        "name": "Chicken Supreme Pizza",
+        "price": 350,
+        "isVeg": false,
+        "imageUrl": "https://source.unsplash.com/600x400/?chicken-pizza"
+      },
+      {
+        "id": "res_003_m6",
+        "name": "Veg Pasta",
+        "price": 220,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?veg-pasta"
+      },
+      {
+        "id": "res_003_m7",
+        "name": "Chicken Pasta",
+        "price": 260,
+        "isVeg": false,
+        "imageUrl": "https://source.unsplash.com/600x400/?chicken-pasta"
+      }
+    ],
+    "Starters": [
+      {
+        "id": "res_003_m8",
+        "name": "Garlic Breadsticks",
+        "price": 130,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?breadsticks"
+      },
+      {
+        "id": "res_003_m11",
+        "name": "Cheese Garlic Bread",
+        "price": 150,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?cheese-garlic-bread"
+      },
+      {
+        "id": "res_003_m12",
+        "name": "Chicken Wings",
+        "price": 280,
+        "isVeg": false,
+        "imageUrl": "https://source.unsplash.com/600x400/?chicken-wings"
+      },
+      {
+        "id": "res_003_m13",
+        "name": "Stuffed Mushroom Bites",
+        "price": 190,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?stuffed-mushrooms"
+      }
+    ],
+    "Dessert": [
+      {
+        "id": "res_003_m9",
+        "name": "Choco Lava Cake",
+        "price": 150,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?lava-cake"
+      },
+      {
+        "id": "res_003_m14",
+        "name": "Tiramisu",
+        "price": 210,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?tiramisu"
+      },
+      {
+        "id": "res_003_m15",
+        "name": "Brownie with Ice Cream",
+        "price": 200,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?brownie-ice-cream"
+      },
+      {
+        "id": "res_003_m16",
+        "name": "Cold Drink (Coke)",
+        "price": 60,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?coca-cola"
+      }
+    ]
+  }
+},
+{
+  "restaurantId": "res_004",
+  "ResName": "Burger Junction",
+  "menu": {
+    "Recommended": [
+      {
+        "id": "res_004_m1",
+        "name": "Classic Veg Burger",
+        "price": 120,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?veg-burger"
+      },
+      {
+        "id": "res_004_m2",
+        "name": "Chicken Burger",
+        "price": 150,
+        "isVeg": false,
+        "imageUrl": "https://source.unsplash.com/600x400/?chicken-burger"
+      },
+      {
+        "id": "res_004_m3",
+        "name": "Cheese Burger",
+        "price": 160,
+        "isVeg": false,
+        "imageUrl": "https://source.unsplash.com/600x400/?cheeseburger"
+      }
+    ],
+    "MainCourse": [
+      {
+        "id": "res_004_m11",
+        "name": "Double Patty Chicken Burger",
+        "price": 220,
+        "isVeg": false,
+        "imageUrl": "https://source.unsplash.com/600x400/?double-chicken-burger"
+      },
+      {
+        "id": "res_004_m12",
+        "name": "Paneer Tikka Burger",
+        "price": 170,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?paneer-burger"
+      },
+      {
+        "id": "res_004_m13",
+        "name": "Grilled Chicken Wrap",
+        "price": 190,
+        "isVeg": false,
+        "imageUrl": "https://source.unsplash.com/600x400/?chicken-wrap"
+      },
+      {
+        "id": "res_004_m7",
+        "name": "Veg Wrap",
+        "price": 130,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?veg-wrap"
+      }
+    ],
+    "Starters": [
+      {
+        "id": "res_004_m4",
+        "name": "Fries",
+        "price": 90,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?french-fries"
+      },
+      {
+        "id": "res_004_m5",
+        "name": "Peri Peri Fries",
+        "price": 110,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?peri-peri-fries"
+      },
+      {
+        "id": "res_004_m6",
+        "name": "Chicken Nuggets",
+        "price": 180,
+        "isVeg": false,
+        "imageUrl": "https://source.unsplash.com/600x400/?chicken-nuggets"
+      },
+      {
+        "id": "res_004_m14",
+        "name": "Cheese Corn Balls",
+        "price": 160,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?cheese-balls"
+      }
+    ],
+    "Dessert": [
+      {
+        "id": "res_004_m10",
+        "name": "Brownie",
+        "price": 140,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?chocolate-brownie"
+      },
+      {
+        "id": "res_004_m8",
+        "name": "Cold Coffee",
+        "price": 120,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?cold-coffee"
+      },
+      {
+        "id": "res_004_m9",
+        "name": "Chocolate Milkshake",
+        "price": 150,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?milkshake"
+      },
+      {
+        "id": "res_004_m15",
+        "name": "Vanilla Ice Cream",
+        "price": 100,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?vanilla-ice-cream"
+      }
+    ]
+  }
+},
+{
+  "restaurantId": "res_005",
+  "ResName": "South Spice",
+    "menu": {
+    "Recommended": [
+      {
+        "id": "res_005_m1",
+        "name": "Masala Dosa",
+        "price": 120,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?masala-dosa"
+      },
+      {
+        "id": "res_005_m2",
+        "name": "Idli Sambar",
+        "price": 80,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?idli-sambar"
+      },
+      {
+        "id": "res_005_m10",
+        "name": "Pongal",
+        "price": 120,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?pongal"
+      }
+    ],
+    "MainCourse": [
+      {
+        "id": "res_005_m5",
+        "name": "Lemon Rice",
+        "price": 140,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?lemon-rice"
+      },
+      {
+        "id": "res_005_m6",
+        "name": "Curd Rice",
+        "price": 130,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?curd-rice"
+      },
+      {
+        "id": "res_005_m11",
+        "name": "Vegetable Biryani",
+        "price": 180,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?veg-biryani"
+      },
+      {
+        "id": "res_005_m12",
+        "name": "Sambar Rice",
+        "price": 150,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?sambar-rice"
+      }
+    ],
+    "Starters": [
+      {
+        "id": "res_005_m3",
+        "name": "Medu Vada",
+        "price": 60,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?medu-vada"
+      },
+      {
+        "id": "res_005_m4",
+        "name": "Uttapam",
+        "price": 110,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?uttapam"
+      },
+      {
+        "id": "res_005_m7",
+        "name": "Rava Dosa",
+        "price": 130,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?rava-dosa"
+      },
+      {
+        "id": "res_005_m13",
+        "name": "Mini Idli Fry",
+        "price": 90,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?fried-idli"
+      }
+    ],
+    "Dessert": [
+      {
+        "id": "res_005_m9",
+        "name": "Payasam",
+        "price": 100,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?payasam"
+      },
+      {
+        "id": "res_005_m14",
+        "name": "Kesari Bath",
+        "price": 90,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?kesari-bath"
+      },
+      {
+        "id": "res_005_m15",
+        "name": "Mysore Pak",
+        "price": 110,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?mysore-pak"
+      },
+      {
+        "id": "res_005_m8",
+        "name": "Filter Coffee",
+        "price": 50,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?filter-coffee"
+      }
+    ]
+  }
+},
+{
+  "restaurantId": "res_006",
+  "ResName": "Wok & Roll",
+    "menu": {
+    "Recommended": [
+      {
+        "id": "res_006_m2",
+        "name": "Chicken Hakka Noodles",
+        "price": 260,
+        "isVeg": false,
+        "imageUrl": "https://source.unsplash.com/600x400/?chicken-noodles"
+      },
+      {
+        "id": "res_006_m6",
+        "name": "Chicken Manchurian",
+        "price": 280,
+        "isVeg": false,
+        "imageUrl": "https://source.unsplash.com/600x400/?chicken-manchurian"
+      },
+      {
+        "id": "res_006_m9",
+        "name": "Thai Green Curry",
+        "price": 320,
+        "isVeg": false,
+        "imageUrl": "https://source.unsplash.com/600x400/?thai-green-curry"
+      }
+    ],
+    "MainCourse": [
+      {
+        "id": "res_006_m1",
+        "name": "Veg Hakka Noodles",
+        "price": 220,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?veg-hakka-noodles"
+      },
+      {
+        "id": "res_006_m3",
+        "name": "Veg Fried Rice",
+        "price": 210,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?veg-fried-rice"
+      },
+      {
+        "id": "res_006_m4",
+        "name": "Chicken Fried Rice",
+        "price": 250,
+        "isVeg": false,
+        "imageUrl": "https://source.unsplash.com/600x400/?chicken-fried-rice"
+      },
+      {
+        "id": "res_006_m8",
+        "name": "Chilli Chicken",
+        "price": 300,
+        "isVeg": false,
+        "imageUrl": "https://source.unsplash.com/600x400/?chilli-chicken"
+      }
+    ],
+    "Starters": [
+      {
+        "id": "res_006_m5",
+        "name": "Veg Manchurian",
+        "price": 230,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?veg-manchurian"
+      },
+      {
+        "id": "res_006_m7",
+        "name": "Spring Rolls",
+        "price": 180,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?spring-rolls"
+      },
+      {
+        "id": "res_006_m11",
+        "name": "Paneer Chilli",
+        "price": 260,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?chilli-paneer"
+      },
+      {
+        "id": "res_006_m12",
+        "name": "Crispy Corn",
+        "price": 190,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?crispy-corn"
+      }
+    ],
+    "Dessert": [
+      {
+        "id": "res_006_m13",
+        "name": "Honey Noodles with Ice Cream",
+        "price": 210,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?honey-noodles-ice-cream"
+      },
+      {
+        "id": "res_006_m14",
+        "name": "Darsaan",
+        "price": 180,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?darsaan"
+      },
+      {
+        "id": "res_006_m15",
+        "name": "Chocolate Spring Roll",
+        "price": 200,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?chocolate-spring-roll"
+      },
+      {
+        "id": "res_006_m10",
+        "name": "Iced Lemon Tea",
+        "price": 90,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?iced-lemon-tea"
+      }
+    ]
+  }
+},
+{
+  "restaurantId": "res_007",
+  "ResName": "Punjabi Tandoor",
+    "menu": {
+    "Recommended": [
+      {
+        "id": "res_007_m2",
+        "name": "Chole Bhature",
+        "price": 160,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?chole-bhature"
+      },
+      {
+        "id": "res_007_m3",
+        "name": "Butter Chicken",
+        "price": 330,
+        "isVeg": false,
+        "imageUrl": "https://source.unsplash.com/600x400/?butter-chicken"
+      },
+      {
+        "id": "res_007_m1",
+        "name": "Amritsari Kulcha",
+        "price": 140,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?amritsari-kulcha"
+      }
+    ],
+    "MainCourse": [
+      {
+        "id": "res_007_m6",
+        "name": "Dal Tadka",
+        "price": 210,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?dal-tadka"
+      },
+      {
+        "id": "res_007_m7",
+        "name": "Jeera Rice",
+        "price": 170,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?jeera-rice"
+      },
+      {
+        "id": "res_007_m11",
+        "name": "Paneer Butter Masala",
+        "price": 290,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?paneer-butter-masala"
+      },
+      {
+        "id": "res_007_m12",
+        "name": "Kadai Chicken",
+        "price": 340,
+        "isVeg": false,
+        "imageUrl": "https://source.unsplash.com/600x400/?kadai-chicken"
+      }
+    ],
+    "Starters": [
+      {
+        "id": "res_007_m4",
+        "name": "Paneer Tikka",
+        "price": 260,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?paneer-tikka"
+      },
+      {
+        "id": "res_007_m5",
+        "name": "Chicken Tikka",
+        "price": 300,
+        "isVeg": false,
+        "imageUrl": "https://source.unsplash.com/600x400/?chicken-tikka"
+      },
+      {
+        "id": "res_007_m8",
+        "name": "Tandoori Roti",
+        "price": 40,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?tandoori-roti"
+      },
+      {
+        "id": "res_007_m13",
+        "name": "Hara Bhara Kebab",
+        "price": 200,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?hara-bhara-kebab"
+      }
+    ],
+    "Dessert": [
+      {
+        "id": "res_007_m10",
+        "name": "Gajar Halwa",
+        "price": 130,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?gajar-halwa"
+      },
+      {
+        "id": "res_007_m14",
+        "name": "Gulab Jamun",
+        "price": 120,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?gulab-jamun"
+      },
+      {
+        "id": "res_007_m15",
+        "name": "Rasmalai",
+        "price": 150,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?rasmalai"
+      },
+      {
+        "id": "res_007_m9",
+        "name": "Sweet Lassi",
+        "price": 90,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?lassi"
+      }
+    ]
+  }
+},
+{
+  "restaurantId": "res_008",
+  "ResName": "The Desert Studio",
+    "menu": {
+    "Recommended": [
+      {
+        "id": "res_008_m1",
+        "name": "Chocolate Truffle Cake",
+        "price": 180,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?chocolate-cake"
+      },
+      {
+        "id": "res_008_m3",
+        "name": "Blueberry Cheesecake",
+        "price": 220,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?blueberry-cheesecake"
+      },
+      {
+        "id": "res_008_m6",
+        "name": "Chocolate Sundae",
+        "price": 160,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?chocolate-sundae"
+      }
+    ],
+    "MainCourse": [
+      {
+        "id": "res_008_m11",
+        "name": "Chocolate Pancakes",
+        "price": 190,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?chocolate-pancakes"
+      },
+      {
+        "id": "res_008_m12",
+        "name": "Waffles with Ice Cream",
+        "price": 210,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?waffles-ice-cream"
+      },
+      {
+        "id": "res_008_m13",
+        "name": "Nutella Crepes",
+        "price": 200,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?nutella-crepes"
+      },
+      {
+        "id": "res_008_m2",
+        "name": "Red Velvet Cake",
+        "price": 200,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?red-velvet-cake"
+      }
+    ],
+    "Starters": [
+      {
+        "id": "res_008_m4",
+        "name": "Chocolate Brownie",
+        "price": 150,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?chocolate-brownie"
+      },
+      {
+        "id": "res_008_m5",
+        "name": "Vanilla Ice Cream",
+        "price": 120,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?vanilla-ice-cream"
+      },
+      {
+        "id": "res_008_m9",
+        "name": "Cupcake",
+        "price": 100,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?cupcake"
+      },
+      {
+        "id": "res_008_m10",
+        "name": "Mango Pastry",
+        "price": 150,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?mango-pastry"
+      }
+    ],
+    "Dessert": [
+      {
+        "id": "res_008_m14",
+        "name": "Black Forest Cake",
+        "price": 210,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?black-forest-cake"
+      },
+      {
+        "id": "res_008_m15",
+        "name": "Butterscotch Ice Cream",
+        "price": 130,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?butterscotch-ice-cream"
+      },
+      {
+        "id": "res_008_m7",
+        "name": "Strawberry Milkshake",
+        "price": 140,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?strawberry-milkshake"
+      },
+      {
+        "id": "res_008_m8",
+        "name": "Cold Coffee",
+        "price": 130,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?cold-coffee"
+      }
+    ]
+  }
+},
+{
+  "restaurantId": "res_009",
+  "ResName": "Biriyani Blues",
+  "menu": {
+    "Recommended": [
+      {
+        "id": "res_009_m1",
+        "name": "Hyderabadi Chicken Biryani",
+        "price": 320,
+        "isVeg": false,
+        "imageUrl": "https://source.unsplash.com/600x400/?hyderabadi-biryani"
+      },
+      {
+        "id": "res_009_m2",
+        "name": "Mutton Biryani",
+        "price": 380,
+        "isVeg": false,
+        "imageUrl": "https://source.unsplash.com/600x400/?mutton-biryani"
+      },
+      {
+        "id": "res_009_m4",
+        "name": "Chicken 65",
+        "price": 280,
+        "isVeg": false,
+        "imageUrl": "https://source.unsplash.com/600x400/?chicken-65"
+      }
+    ],
+    "MainCourse": [
+      {
+        "id": "res_009_m3",
+        "name": "Veg Biryani",
+        "price": 260,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?veg-biryani"
+      },
+      {
+        "id": "res_009_m5",
+        "name": "Mutton Korma",
+        "price": 350,
+        "isVeg": false,
+        "imageUrl": "https://source.unsplash.com/600x400/?mutton-korma"
+      },
+      {
+        "id": "res_009_m6",
+        "name": "Paneer Biryani",
+        "price": 270,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?paneer-biryani"
+      },
+      {
+        "id": "res_009_m11",
+        "name": "Chicken Dum Biryani",
+        "price": 340,
+        "isVeg": false,
+        "imageUrl": "https://source.unsplash.com/600x400/?chicken-dum-biryani"
+      }
+    ],
+    "Starters": [
+      {
+        "id": "res_009_m12",
+        "name": "Paneer 65",
+        "price": 240,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?paneer-65"
+      },
+      {
+        "id": "res_009_m13",
+        "name": "Gobi Manchurian",
+        "price": 220,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?gobi-manchurian"
+      },
+      {
+        "id": "res_009_m8",
+        "name": "Mirchi Ka Salan",
+        "price": 120,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?mirchi-ka-salan"
+      },
+      {
+        "id": "res_009_m9",
+        "name": "Boiled Egg",
+        "price": 40,
+        "isVeg": false,
+        "imageUrl": "https://source.unsplash.com/600x400/?boiled-egg"
+      }
+    ],
+    "Dessert": [
+      {
+        "id": "res_009_m7",
+        "name": "Double Ka Meetha",
+        "price": 150,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?double-ka-meetha"
+      },
+      {
+        "id": "res_009_m14",
+        "name": "Qubani Ka Meetha",
+        "price": 170,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?qubani-ka-meetha"
+      },
+      {
+        "id": "res_009_m15",
+        "name": "Gulab Jamun",
+        "price": 120,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?gulab-jamun"
+      },
+      {
+        "id": "res_009_m10",
+        "name": "Sweet Lassi",
+        "price": 90,
+        "isVeg": true,
+        "imageUrl": "https://source.unsplash.com/600x400/?sweet-lassi"
+      }
+    ]
+  }
+},
+{
+  "restaurantId": "res_010",
+  "ResName": "Cafe Brew",
+  "menu":{
+  "Recommended": [
+    {
+      "id": "res_010_m1",
+      "name": "Cappuccino",
+      "price": 140,
+      "isVeg": true,
+      "imageUrl": "https://source.unsplash.com/600x400/?cappuccino"
+    },
+    {
+      "id": "res_010_m4",
+      "name": "Club Sandwich",
+      "price": 180,
+      "isVeg": false,
+      "imageUrl": "https://source.unsplash.com/600x400/?club-sandwich"
+    },
+    {
+      "id": "res_010_m9",
+      "name": "Milkshake",
+      "price": 170,
+      "isVeg": true,
+      "imageUrl": "https://source.unsplash.com/600x400/?milkshake"
+    }
+  ],
+  "MainCourse": [
+    {
+      "id": "res_010_m5",
+      "name": "Veg Sandwich",
+      "price": 150,
+      "isVeg": true,
+      "imageUrl": "https://source.unsplash.com/600x400/?veg-sandwich"
+    },
+    {
+      "id": "res_010_m11",
+      "name": "Grilled Chicken Sandwich",
+      "price": 200,
+      "isVeg": false,
+      "imageUrl": "https://source.unsplash.com/600x400/?grilled-chicken-sandwich"
+    },
+    {
+      "id": "res_010_m12",
+      "name": "Pasta Alfredo",
+      "price": 220,
+      "isVeg": true,
+      "imageUrl": "https://source.unsplash.com/600x400/?alfredo-pasta"
+    },
+    {
+      "id": "res_010_m13",
+      "name": "Paneer Panini",
+      "price": 190,
+      "isVeg": true,
+      "imageUrl": "https://source.unsplash.com/600x400/?paneer-panini"
+    }
+  ],
+  "Starters": [
+    {
+      "id": "res_010_m6",
+      "name": "French Fries",
+      "price": 100,
+      "isVeg": true,
+      "imageUrl": "https://source.unsplash.com/600x400/?french-fries"
+    },
+    {
+      "id": "res_010_m8",
+      "name": "Cheese Toast",
+      "price": 140,
+      "isVeg": true,
+      "imageUrl": "https://source.unsplash.com/600x400/?cheese-toast"
+    },
+    {
+      "id": "res_010_m14",
+      "name": "Garlic Bread",
+      "price": 120,
+      "isVeg": true,
+      "imageUrl": "https://source.unsplash.com/600x400/?garlic-bread"
+    },
+    {
+      "id": "res_010_m15",
+      "name": "Nachos with Cheese",
+      "price": 180,
+      "isVeg": true,
+      "imageUrl": "https://source.unsplash.com/600x400/?nachos"
+    }
+  ],
+  "Dessert": [
+    {
+      "id": "res_010_m7",
+      "name": "Chocolate Brownie",
+      "price": 160,
+      "isVeg": true,
+      "imageUrl": "https://source.unsplash.com/600x400/?chocolate-brownie"
+    },
+    {
+      "id": "res_010_m2",
+      "name": "Latte",
+      "price": 150,
+      "isVeg": true,
+      "imageUrl": "https://source.unsplash.com/600x400/?latte-coffee"
+    },
+    {
+      "id": "res_010_m3",
+      "name": "Cold Coffee",
+      "price": 130,
+      "isVeg": true,
+      "imageUrl": "https://source.unsplash.com/600x400/?cold-coffee"
+    },
+    {
+      "id": "res_010_m10",
+      "name": "Herbal Tea",
+      "price": 90,
+      "isVeg": true,
+      "imageUrl": "https://source.unsplash.com/600x400/?herbal-tea"
+    }
+  ]
+}
+
+},
+{
+  "restaurantId": "res_011",
+  "ResName": "Royal Rasoi",
+  "menu": {
+  "Recommended": [
+    {
+      "id": "res_011_m1",
+      "name": "Dal Baati Churma",
+      "price": 280,
+      "isVeg": true,
+      "imageUrl": "https://source.unsplash.com/600x400/?dal-baati"
+    },
+    {
+      "id": "res_011_m5",
+      "name": "Laal Maas",
+      "price": 360,
+      "isVeg": false,
+      "imageUrl": "https://source.unsplash.com/600x400/?laal-maas"
+    },
+    {
+      "id": "res_011_m7",
+      "name": "Kachori",
+      "price": 70,
+      "isVeg": true,
+      "imageUrl": "https://source.unsplash.com/600x400/?kachori"
+    }
+  ],
+  "MainCourse": [
+    {
+      "id": "res_011_m2",
+      "name": "Gatte Ki Sabzi",
+      "price": 220,
+      "isVeg": true,
+      "imageUrl": "https://source.unsplash.com/600x400/?gatte-ki-sabzi"
+    },
+    {
+      "id": "res_011_m3",
+      "name": "Ker Sangri",
+      "price": 240,
+      "isVeg": true,
+      "imageUrl": "https://source.unsplash.com/600x400/?rajasthani-curry"
+    },
+    {
+      "id": "res_011_m6",
+      "name": "Mohan Maas",
+      "price": 380,
+      "isVeg": false,
+      "imageUrl": "https://source.unsplash.com/600x400/?rajasthani-mutton"
+    },
+    {
+      "id": "res_011_m11",
+      "name": "Rajasthani Thali",
+      "price": 420,
+      "isVeg": true,
+      "imageUrl": "https://source.unsplash.com/600x400/?rajasthani-thali"
+    }
+  ],
+  "Starters": [
+    {
+      "id": "res_011_m8",
+      "name": "Mirchi Vada",
+      "price": 60,
+      "isVeg": true,
+      "imageUrl": "https://source.unsplash.com/600x400/?mirchi-vada"
+    },
+    {
+      "id": "res_011_m4",
+      "name": "Bajra Roti",
+      "price": 50,
+      "isVeg": true,
+      "imageUrl": "https://source.unsplash.com/600x400/?bajra-roti"
+    },
+    {
+      "id": "res_011_m12",
+      "name": "Pyaaz Kachori",
+      "price": 80,
+      "isVeg": true,
+      "imageUrl": "https://source.unsplash.com/600x400/?pyaz-kachori"
+    },
+    {
+      "id": "res_011_m13",
+      "name": "Methi Thepla",
+      "price": 90,
+      "isVeg": true,
+      "imageUrl": "https://source.unsplash.com/600x400/?thepla"
+    }
+  ],
+  "Dessert": [
+    {
+      "id": "res_011_m9",
+      "name": "Ghewar",
+      "price": 150,
+      "isVeg": true,
+      "imageUrl": "https://source.unsplash.com/600x400/?ghewar"
+    },
+    {
+      "id": "res_011_m14",
+      "name": "Malpua",
+      "price": 140,
+      "isVeg": true,
+      "imageUrl": "https://source.unsplash.com/600x400/?malpua"
+    },
+    {
+      "id": "res_011_m15",
+      "name": "Rabri",
+      "price": 130,
+      "isVeg": true,
+      "imageUrl": "https://source.unsplash.com/600x400/?rabri"
+    },
+    {
+      "id": "res_011_m10",
+      "name": "Chaas",
+      "price": 60,
+      "isVeg": true,
+      "imageUrl": "https://source.unsplash.com/600x400/?buttermilk"
+    }
+  ]
+}
+
+},
+{
+  "restaurantId": "res_012",
+  "ResName": "Sushi Zen",
+  "menu": {
+  "Recommended": [
+    {
+      "id": "res_012_m2",
+      "name": "Salmon Sushi",
+      "price": 420,
+      "isVeg": false,
+      "imageUrl": "https://source.unsplash.com/600x400/?salmon-sushi"
+    },
+    {
+      "id": "res_012_m3",
+      "name": "Chicken Teriyaki",
+      "price": 380,
+      "isVeg": false,
+      "imageUrl": "https://source.unsplash.com/600x400/?chicken-teriyaki"
+    },
+    {
+      "id": "res_012_m6",
+      "name": "Tempura Prawns",
+      "price": 450,
+      "isVeg": false,
+      "imageUrl": "https://source.unsplash.com/600x400/?tempura-prawns"
+    }
+  ],
+  "MainCourse": [
+    {
+      "id": "res_012_m1",
+      "name": "Veg Sushi Roll",
+      "price": 320,
+      "isVeg": true,
+      "imageUrl": "https://source.unsplash.com/600x400/?veg-sushi"
+    },
+    {
+      "id": "res_012_m4",
+      "name": "Veg Ramen",
+      "price": 300,
+      "isVeg": true,
+      "imageUrl": "https://source.unsplash.com/600x400/?veg-ramen"
+    },
+    {
+      "id": "res_012_m5",
+      "name": "Chicken Ramen",
+      "price": 360,
+      "isVeg": false,
+      "imageUrl": "https://source.unsplash.com/600x400/?chicken-ramen"
+    },
+    {
+      "id": "res_012_m11",
+      "name": "Tofu Teriyaki Bowl",
+      "price": 340,
+      "isVeg": true,
+      "imageUrl": "https://source.unsplash.com/600x400/?tofu-teriyaki"
+    }
+  ],
+  "Starters": [
+    {
+      "id": "res_012_m7",
+      "name": "Edamame",
+      "price": 180,
+      "isVeg": true,
+      "imageUrl": "https://source.unsplash.com/600x400/?edamame"
+    },
+    {
+      "id": "res_012_m8",
+      "name": "Miso Soup",
+      "price": 150,
+      "isVeg": true,
+      "imageUrl": "https://source.unsplash.com/600x400/?miso-soup"
+    },
+    {
+      "id": "res_012_m12",
+      "name": "Veg Tempura",
+      "price": 300,
+      "isVeg": true,
+      "imageUrl": "https://source.unsplash.com/600x400/?vegetable-tempura"
+    },
+    {
+      "id": "res_012_m13",
+      "name": "Chicken Gyoza",
+      "price": 320,
+      "isVeg": false,
+      "imageUrl": "https://source.unsplash.com/600x400/?gyoza"
+    }
+  ],
+  "Dessert": [
+    {
+      "id": "res_012_m9",
+      "name": "Matcha Ice Cream",
+      "price": 200,
+      "isVeg": true,
+      "imageUrl": "https://source.unsplash.com/600x400/?matcha-ice-cream"
+    },
+    {
+      "id": "res_012_m14",
+      "name": "Mochi Ice Cream",
+      "price": 220,
+      "isVeg": true,
+      "imageUrl": "https://source.unsplash.com/600x400/?mochi-ice-cream"
+    },
+    {
+      "id": "res_012_m15",
+      "name": "Dorayaki",
+      "price": 210,
+      "isVeg": true,
+      "imageUrl": "https://source.unsplash.com/600x400/?dorayaki"
+    },
+    {
+      "id": "res_012_m10",
+      "name": "Green Tea",
+      "price": 120,
+      "isVeg": true,
+      "imageUrl": "https://source.unsplash.com/600x400/?green-tea"
+    }
+  ]
+}
+
+
+},
+{
+  "restaurantId": "res_013",
+  "ResName":"Street Chat Co.",
+  "menu": {
+  "Recommended": [
+    {
+      "id": "res_013_m1",
+      "name": "Pani Puri",
+      "price": 50,
+      "isVeg": true,
+      "imageUrl": "https://source.unsplash.com/600x400/?pani-puri"
+    },
+    {
+      "id": "res_013_m3",
+      "name": "Dahi Puri",
+      "price": 70,
+      "isVeg": true,
+      "imageUrl": "https://source.unsplash.com/600x400/?dahi-puri"
+    },
+    {
+      "id": "res_013_m5",
+      "name": "Samosa",
+      "price": 30,
+      "isVeg": true,
+      "imageUrl": "https://source.unsplash.com/600x400/?samosa"
+    }
+  ],
+  "MainCourse": [
+    {
+      "id": "res_013_m11",
+      "name": "Chole Bhature",
+      "price": 140,
+      "isVeg": true,
+      "imageUrl": "https://source.unsplash.com/600x400/?chole-bhature"
+    },
+    {
+      "id": "res_013_m12",
+      "name": "Pav Bhaji",
+      "price": 130,
+      "isVeg": true,
+      "imageUrl": "https://source.unsplash.com/600x400/?pav-bhaji"
+    },
+    {
+      "id": "res_013_m13",
+      "name": "Rajma Chawal",
+      "price": 150,
+      "isVeg": true,
+      "imageUrl": "https://source.unsplash.com/600x400/?rajma-chawal"
+    },
+    {
+      "id": "res_013_m8",
+      "name": "Chole Tikki",
+      "price": 90,
+      "isVeg": true,
+      "imageUrl": "https://source.unsplash.com/600x400/?chole-tikki"
+    }
+  ],
+  "Starters": [
+    {
+      "id": "res_013_m2",
+      "name": "Sev Puri",
+      "price": 60,
+      "isVeg": true,
+      "imageUrl": "https://source.unsplash.com/600x400/?sev-puri"
+    },
+    {
+      "id": "res_013_m4",
+      "name": "Aloo Tikki",
+      "price": 80,
+      "isVeg": true,
+      "imageUrl": "https://source.unsplash.com/600x400/?aloo-tikki"
+    },
+    {
+      "id": "res_013_m6",
+      "name": "Kachori",
+      "price": 35,
+      "isVeg": true,
+      "imageUrl": "https://source.unsplash.com/600x400/?kachori"
+    },
+    {
+      "id": "res_013_m7",
+      "name": "Papdi Chaat",
+      "price": 75,
+      "isVeg": true,
+      "imageUrl": "https://source.unsplash.com/600x400/?papdi-chaat"
+    }
+  ],
+  "Dessert": [
+    {
+      "id": "res_013_m9",
+      "name": "Jalebi",
+      "price": 60,
+      "isVeg": true,
+      "imageUrl": "https://source.unsplash.com/600x400/?jalebi"
+    },
+    {
+      "id": "res_013_m10",
+      "name": "Kulfi",
+      "price": 70,
+      "isVeg": true,
+      "imageUrl": "https://source.unsplash.com/600x400/?kulfi"
+    },
+    {
+      "id": "res_013_m14",
+      "name": "Rasgulla",
+      "price": 65,
+      "isVeg": true,
+      "imageUrl": "https://source.unsplash.com/600x400/?rasgulla"
+    },
+    {
+      "id": "res_013_m15",
+      "name": "Gulab Jamun",
+      "price": 70,
+      "isVeg": true,
+      "imageUrl": "https://source.unsplash.com/600x400/?gulab-jamun"
+    }
+  ]
+}
+
+},
+{
+  "restaurantId": "res_014",
+  "ResName":"MexiCasa",
+  "menu":
+  {
+  "Recommended": [
+    {
+      "id": "res_014_m2",
+      "name": "Chicken Tacos",
+      "price": 260,
+      "isVeg": false,
+      "imageUrl": "https://source.unsplash.com/600x400/?chicken-tacos"
+    },
+    {
+      "id": "res_014_m4",
+      "name": "Chicken Burrito",
+      "price": 290,
+      "isVeg": false,
+      "imageUrl": "https://source.unsplash.com/600x400/?chicken-burrito"
+    },
+    {
+      "id": "res_014_m9",
+      "name": "Churros",
+      "price": 170,
+      "isVeg": true,
+      "imageUrl": "https://source.unsplash.com/600x400/?churros"
+    }
+  ],
+  "MainCourse": [
+    {
+      "id": "res_014_m1",
+      "name": "Veg Tacos",
+      "price": 220,
+      "isVeg": true,
+      "imageUrl": "https://source.unsplash.com/600x400/?veg-tacos"
+    },
+    {
+      "id": "res_014_m3",
+      "name": "Veg Burrito",
+      "price": 240,
+      "isVeg": true,
+      "imageUrl": "https://source.unsplash.com/600x400/?veg-burrito"
+    },
+    {
+      "id": "res_014_m6",
+      "name": "Quesadilla",
+      "price": 230,
+      "isVeg": true,
+      "imageUrl": "https://source.unsplash.com/600x400/?quesadilla"
+    },
+    {
+      "id": "res_014_m7",
+      "name": "Chicken Quesadilla",
+      "price": 280,
+      "isVeg": false,
+      "imageUrl": "https://source.unsplash.com/600x400/?chicken-quesadilla"
+    }
+  ],
+  "Starters": [
+    {
+      "id": "res_014_m5",
+      "name": "Nachos with Salsa",
+      "price": 200,
+      "isVeg": true,
+      "imageUrl": "https://source.unsplash.com/600x400/?nachos"
+    },
+    {
+      "id": "res_014_m8",
+      "name": "Guacamole",
+      "price": 150,
+      "isVeg": true,
+      "imageUrl": "https://source.unsplash.com/600x400/?guacamole"
+    },
+    {
+      "id": "res_014_m11",
+      "name": "Cheese Nachos",
+      "price": 220,
+      "isVeg": true,
+      "imageUrl": "https://source.unsplash.com/600x400/?cheese-nachos"
+    },
+    {
+      "id": "res_014_m12",
+      "name": "Jalapeno Poppers",
+      "price": 210,
+      "isVeg": true,
+      "imageUrl": "https://source.unsplash.com/600x400/?jalapeno-poppers"
+    }
+  ],
+  "Dessert": [
+    {
+      "id": "res_014_m13",
+      "name": "Chocolate Churros",
+      "price": 190,
+      "isVeg": true,
+      "imageUrl": "https://source.unsplash.com/600x400/?chocolate-churros"
+    },
+    {
+      "id": "res_014_m14",
+      "name": "Tres Leches Cake",
+      "price": 210,
+      "isVeg": true,
+      "imageUrl": "https://source.unsplash.com/600x400/?tres-leches-cake"
+    },
+    {
+      "id": "res_014_m15",
+      "name": "Cinnamon Sugar Donuts",
+      "price": 180,
+      "isVeg": true,
+      "imageUrl": "https://source.unsplash.com/600x400/?cinnamon-donuts"
+    },
+    {
+      "id": "res_014_m10",
+      "name": "Lime Soda",
+      "price": 90,
+      "isVeg": true,
+      "imageUrl": "https://source.unsplash.com/600x400/?lime-soda"
+    }
+  ]
+}
+
+},
+{
+  "restaurantId": "res_015",
+  "ResName": "Ocean Grill",
+  "menu": {
+  "Recommended": [
+    {
+      "id": "res_015_m1",
+      "name": "Grilled Fish",
+      "price": 420,
+      "isVeg": false,
+      "imageUrl": "https://source.unsplash.com/600x400/?grilled-fish"
+    },
+    {
+      "id": "res_015_m2",
+      "name": "Prawn Curry",
+      "price": 450,
+      "isVeg": false,
+      "imageUrl": "https://source.unsplash.com/600x400/?prawn-curry"
+    },
+    {
+      "id": "res_015_m4",
+      "name": "Crab Masala",
+      "price": 480,
+      "isVeg": false,
+      "imageUrl": "https://source.unsplash.com/600x400/?crab-masala"
+    }
+  ],
+  "MainCourse": [
+    {
+      "id": "res_015_m3",
+      "name": "Fish Fry",
+      "price": 380,
+      "isVeg": false,
+      "imageUrl": "https://source.unsplash.com/600x400/?fish-fry"
+    },
+    {
+      "id": "res_015_m5",
+      "name": "Veg Thali",
+      "price": 250,
+      "isVeg": true,
+      "imageUrl": "https://source.unsplash.com/600x400/?veg-thali"
+    },
+    {
+      "id": "res_015_m6",
+      "name": "Chicken Curry",
+      "price": 320,
+      "isVeg": false,
+      "imageUrl": "https://source.unsplash.com/600x400/?chicken-curry"
+    },
+    {
+      "id": "res_015_m11",
+      "name": "Seafood Platter",
+      "price": 520,
+      "isVeg": false,
+      "imageUrl": "https://source.unsplash.com/600x400/?seafood-platter"
+    }
+  ],
+  "Starters": [
+    {
+      "id": "res_015_m12",
+      "name": "Prawn Fry",
+      "price": 350,
+      "isVeg": false,
+      "imageUrl": "https://source.unsplash.com/600x400/?prawn-fry"
+    },
+    {
+      "id": "res_015_m7",
+      "name": "Jeera Rice",
+      "price": 160,
+      "isVeg": true,
+      "imageUrl": "https://source.unsplash.com/600x400/?jeera-rice"
+    },
+    {
+      "id": "res_015_m8",
+      "name": "Butter Naan",
+      "price": 50,
+      "isVeg": true,
+      "imageUrl": "https://source.unsplash.com/600x400/?butter-naan"
+    },
+    {
+      "id": "res_015_m13",
+      "name": "Fish Fingers",
+      "price": 300,
+      "isVeg": false,
+      "imageUrl": "https://source.unsplash.com/600x400/?fish-fingers"
+    }
+  ],
+  "Dessert": [
+    {
+      "id": "res_015_m9",
+      "name": "Caramel Custard",
+      "price": 180,
+      "isVeg": true,
+      "imageUrl": "https://source.unsplash.com/600x400/?caramel-custard"
+    },
+    {
+      "id": "res_015_m14",
+      "name": "Chocolate Mousse",
+      "price": 200,
+      "isVeg": true,
+      "imageUrl": "https://source.unsplash.com/600x400/?chocolate-mousse"
+    },
+    {
+      "id": "res_015_m15",
+      "name": "Ice Cream Sundae",
+      "price": 190,
+      "isVeg": true,
+      "imageUrl": "https://source.unsplash.com/600x400/?ice-cream-sundae"
+    },
+    {
+      "id": "res_015_m10",
+      "name": "Fresh Lime Juice",
+      "price": 100,
+      "isVeg": true,
+      "imageUrl": "https://source.unsplash.com/600x400/?lime-juice"
+    }
+  ]
+}
+}
+  ]
+}
